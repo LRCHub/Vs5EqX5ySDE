@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "花冷列車",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-21T19:15:36.623984Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花冷列車",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/01_花冷列車_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花冷列車",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_花冷列車_三月のパンタシア.txt"
+    }
+  ]
+}
